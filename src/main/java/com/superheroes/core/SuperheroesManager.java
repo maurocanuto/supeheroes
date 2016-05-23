@@ -19,7 +19,6 @@ public class SuperheroesManager {
 
     public List<Hero> getAllSuperheroes() {
         return dbManager.getSuperheroes();
-
     }
 
     public void addSuperhero(Hero hero) throws SuperheroException {
