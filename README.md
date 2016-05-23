@@ -3,7 +3,7 @@ This is a basic application that implements a RESTFUL web service that allows to
 * Name
 * Pseudonym
 * The publisher it is from (e.g. DC or Marvel)
-*  of "skills" or powers
+* List of "skills" or powers
 * List of allies (e.g Batman's ally would be Robin) if the superhero has any
 * Date of first appearance (in the format YYYY-MM-DD)
 
