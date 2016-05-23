@@ -1,4 +1,4 @@
-package com.payworks.db;
+package com.superheroes.db;
 
 /**
  * Created by mcanuto on 5/19/16.

@@ -1,7 +1,7 @@
-package com.payworks.db;
+package com.superheroes.db;
 
-import com.payworks.exceptions.SuperheroException;
-import com.payworks.models.Hero;
+import com.superheroes.exceptions.SuperheroException;
+import com.superheroes.models.Hero;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -15,7 +15,6 @@ import javax.persistence.EntityTransaction;
 import javax.persistence.Query;
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.List;
 
 import static org.junit.Assert.assertTrue;
 import static org.mockito.Mockito.mock;

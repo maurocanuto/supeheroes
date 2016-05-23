@@ -1,8 +1,8 @@
-package com.payworks.frontend;
+package com.superheroes.frontend;
 
-import com.payworks.core.SuperheroesManager;
-import com.payworks.exceptions.SuperheroException;
-import com.payworks.models.Hero;
+import com.superheroes.core.SuperheroesManager;
+import com.superheroes.exceptions.SuperheroException;
+import com.superheroes.models.Hero;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,8 +1,8 @@
-package com.payworks.models;
+package com.superheroes.models;
 
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.payworks.utils.JsonDateSerializer;
+import com.superheroes.utils.JsonDateSerializer;
 import org.codehaus.jackson.annotate.JsonAutoDetect;
 import org.codehaus.jackson.map.annotate.JsonSerialize;
 import org.hibernate.annotations.Fetch;

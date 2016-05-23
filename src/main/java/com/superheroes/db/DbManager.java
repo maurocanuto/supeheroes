@@ -1,7 +1,7 @@
-package com.payworks.db;
+package com.superheroes.db;
 
-import com.payworks.exceptions.SuperheroException;
-import com.payworks.models.Hero;
+import com.superheroes.exceptions.SuperheroException;
+import com.superheroes.models.Hero;
 
 import javax.persistence.EntityManager;
 import javax.persistence.Query;

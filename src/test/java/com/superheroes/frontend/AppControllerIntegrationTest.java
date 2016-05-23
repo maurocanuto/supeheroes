@@ -1,6 +1,5 @@
-package com.payworks.frontend;
+package com.superheroes.frontend;
 
-import com.payworks.frontend.SuperheroesApplication;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

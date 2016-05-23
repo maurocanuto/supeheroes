@@ -1,4 +1,4 @@
-package com.payworks.frontend;
+package com.superheroes.frontend;
 
 import org.junit.Before;
 import org.junit.Test;

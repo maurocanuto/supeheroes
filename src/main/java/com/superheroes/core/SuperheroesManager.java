@@ -1,8 +1,8 @@
-package com.payworks.core;
+package com.superheroes.core;
 
-import com.payworks.db.DbManager;
-import com.payworks.exceptions.SuperheroException;
-import com.payworks.models.Hero;
+import com.superheroes.db.DbManager;
+import com.superheroes.exceptions.SuperheroException;
+import com.superheroes.models.Hero;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.payworks.exceptions;
+package com.superheroes.exceptions;
 
 /**
  * @author Mauro Canuto (mauro.canuto@bsc.es)
