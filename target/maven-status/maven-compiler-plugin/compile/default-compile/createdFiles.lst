@@ -1,0 +1,8 @@
+com/payworks/models/Hero.class
+com/payworks/db/PersistenceManager.class
+com/payworks/frontend/SuperheroesApplication.class
+com/payworks/utils/JsonDateSerializer.class
+com/payworks/exceptions/SuperheroException.class
+com/payworks/frontend/AppControllerREST.class
+com/payworks/db/DbManager.class
+com/payworks/core/SuperheroesManager.class

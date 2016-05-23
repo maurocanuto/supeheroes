@@ -1,0 +1,8 @@
+/home/mcanuto/IdeaProjects/superheroes/src/main/java/com/payworks/db/DbManager.java
+/home/mcanuto/IdeaProjects/superheroes/src/main/java/com/payworks/db/PersistenceManager.java
+/home/mcanuto/IdeaProjects/superheroes/src/main/java/com/payworks/utils/JsonDateSerializer.java
+/home/mcanuto/IdeaProjects/superheroes/src/main/java/com/payworks/frontend/AppControllerREST.java
+/home/mcanuto/IdeaProjects/superheroes/src/main/java/com/payworks/exceptions/SuperheroException.java
+/home/mcanuto/IdeaProjects/superheroes/src/main/java/com/payworks/core/SuperheroesManager.java
+/home/mcanuto/IdeaProjects/superheroes/src/main/java/com/payworks/frontend/SuperheroesApplication.java
+/home/mcanuto/IdeaProjects/superheroes/src/main/java/com/payworks/models/Hero.java
